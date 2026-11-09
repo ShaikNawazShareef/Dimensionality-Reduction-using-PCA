@@ -1,4 +1,3 @@
-# Dimensionality-Reduction-using-PCA
 # Dimensionality Reduction Using PCA
 
 ## 📌 Project Overview
