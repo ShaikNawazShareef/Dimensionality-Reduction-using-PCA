@@ -87,7 +87,7 @@ Dimensionality-Reduction-using-PCA/
 *Note: Update the filenames above to match your actual project files.*
 
 ## 👨‍💻 Author
-**Nawaz**
+**Nawaz Shareef Shaik**
 
 ## 📜 License
 This project is intended for educational and learning purposes.
